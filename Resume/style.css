@@ -1,0 +1,14 @@
+.header{
+    text-align: center;
+    background-color: aqua;
+    color: darkred;
+}
+
+.footer{
+    text-align: center;
+    background-color: aqua;
+    color: black;
+    position: fixed;
+    bottom: 0%;
+    width: 100%;
+}
